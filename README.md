@@ -32,7 +32,7 @@ src/main/java/com/eugeniaArias/spring_security_jwt/
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Java 17+**
+- **Java 21**
 - **Spring Boot 3.x**
 - **Spring Security 6.x**
 - **Spring Data JPA**
